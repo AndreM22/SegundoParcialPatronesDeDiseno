@@ -1,10 +1,10 @@
-package chainOfResponsability.basic;
+package basicDP2basic.chainOfResponsability.basic;
 
 public class Client {
 
-    public static void main (String[] argsssss){
-        HandlerManager manager = new HandlerManager();
-        manager.criteriaHandler(100);
+	public static void main(String[] argsssss) {
+		HandlerManager manager = new HandlerManager();
+		manager.criteriaHandler(100);
 
-    }
+	}
 }

@@ -1,4 +1,4 @@
-package state.basic;
+package basicDP2basic.state.basic;
 
 public class ConcreteState2 implements  IState{
     // attributes

@@ -1,4 +1,4 @@
-package observer.basic;
+package basicDP2basic.observer.basic;
 
 import java.util.ArrayList;
 import java.util.List;

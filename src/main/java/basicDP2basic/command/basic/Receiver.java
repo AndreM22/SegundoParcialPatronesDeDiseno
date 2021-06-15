@@ -1,4 +1,4 @@
-package command.basic;
+package basicDP2basic.command.basic;
 
 public class Receiver {
     private String attribute1="default";

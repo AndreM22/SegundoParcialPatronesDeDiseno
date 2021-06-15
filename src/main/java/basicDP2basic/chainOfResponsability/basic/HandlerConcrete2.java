@@ -1,4 +1,4 @@
-package chainOfResponsability.basic;
+package basicDP2basic.chainOfResponsability.basic;
 
 public class HandlerConcrete2 implements IHandler {
     private  IHandler next;

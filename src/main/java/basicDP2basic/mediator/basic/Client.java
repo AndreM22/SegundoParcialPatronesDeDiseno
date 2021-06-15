@@ -1,4 +1,4 @@
-package mediator.basic;
+package basicDP2basic.mediator.basic;
 
 public class Client {
 

@@ -1,4 +1,4 @@
-package strategy.basic;
+package basicDP2basic.strategy.basic;
 
 public class Context {
     private String attribute1;

@@ -1,4 +1,4 @@
-package mediator.basic;
+package basicDP2basic.mediator.basic;
 
 public class ConcreateColleague2 extends Colleague {
     public ConcreateColleague2(IMediator mediator) {

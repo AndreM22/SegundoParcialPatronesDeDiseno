@@ -1,4 +1,4 @@
-package chainOfResponsability.basic;
+package basicDP2basic.chainOfResponsability.basic;
 
 public interface IHandler {
     void setNext(IHandler handler); //---> saber el siguiente responsable

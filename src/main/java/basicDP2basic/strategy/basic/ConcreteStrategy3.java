@@ -1,4 +1,4 @@
-package strategy.basic;
+package basicDP2basic.strategy.basic;
 
 public class ConcreteStrategy3 implements  IStrategy{
     @Override

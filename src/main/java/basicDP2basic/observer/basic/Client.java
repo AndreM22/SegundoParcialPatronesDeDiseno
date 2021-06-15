@@ -1,4 +1,4 @@
-package observer.basic;
+package basicDP2basic.observer.basic;
 
 public class Client {
 

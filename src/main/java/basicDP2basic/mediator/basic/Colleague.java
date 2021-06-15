@@ -1,4 +1,4 @@
-package mediator.basic;
+package basicDP2basic.mediator.basic;
 
 public abstract class Colleague {
      protected IMediator mediator;

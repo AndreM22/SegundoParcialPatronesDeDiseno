@@ -1,4 +1,4 @@
-package memento.basic;
+package basicDP2basic.memento.basic;
 
 public class Originator {
     private ConcreteObject state;
