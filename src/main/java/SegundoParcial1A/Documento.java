@@ -1,6 +1,7 @@
 package SegundoParcial1A;
 
 public class Documento {
+
 	private String titulo;
 	private String contenido;
 

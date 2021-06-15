@@ -1,6 +1,7 @@
 package SegundoParcial1A;
 
 public class EstadoDocumento {
+	
 	private Documento documento;
 
 	public EstadoDocumento(Documento documento) {

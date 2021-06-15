@@ -1,6 +1,7 @@
 package SegundoParcial5A;
 
 public class TarjetaVideo {
+	
        private int porcentajeDeUso=0;
        private String action;
 

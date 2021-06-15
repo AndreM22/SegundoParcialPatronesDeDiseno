@@ -3,6 +3,7 @@ package SegundoParcial5A;
 public class Computadora {
 
 	private String[] programasAbiertos = new String[20];
+	
 	private int memoriaRam;
 	private int ConsumoCPU;
 	private IEstadoComputadora estado;
@@ -16,7 +17,7 @@ public class Computadora {
 	}
 
 	public void request() {
-		this.estado.handler(this);
+		this.estado.objetoComputadora(this);
 	}
 
 	public String[] getProgramasAbiertos() {

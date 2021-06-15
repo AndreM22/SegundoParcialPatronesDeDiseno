@@ -1,6 +1,7 @@
 package SegundoParcial2A;
 
 public class Administrativo extends Persona {
+	
 	private String cargo;
 	private String nombre;
 

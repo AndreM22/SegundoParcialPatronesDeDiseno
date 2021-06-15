@@ -3,10 +3,11 @@ package SegundoParcial5A;
 import java.util.Random;
 
 public class Prendido implements IEstadoComputadora {
+	
 	private int programas;
 
 	@Override
-	public void handler(Computadora computadora) {
+	public void objetoComputadora(Computadora computadora) {
 		System.out.println("**********************************");
 
 		System.out.println("** Estado: Prendido **");

@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class BaseDeDatos {
+	
 	private IOrdenamiento ordenamiento;
 	private List<Usuario> usuarios = new LinkedList<Usuario>();
 

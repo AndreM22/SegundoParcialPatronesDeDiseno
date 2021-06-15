@@ -1,6 +1,7 @@
 package SegundoParcial1A;
 
 public class GuardarCambio {
+	
 	private Documento estado;
 
 	public void ponerEstado(Documento estado) {

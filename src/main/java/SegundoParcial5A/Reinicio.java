@@ -3,7 +3,8 @@ package SegundoParcial5A;
 public class Reinicio implements IEstadoComputadora {
 
 	@Override
-	public void handler(Computadora computadora) {
+	public void objetoComputadora(Computadora computadora) {
+		
 		System.out.println("**********************************");
 		System.out.println("** Estado: Se está reiniciando **");
 		System.out.println("Memoria RAM antes del reinicio: " + computadora.getMemoriaRam() + "%");

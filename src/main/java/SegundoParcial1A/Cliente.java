@@ -2,11 +2,11 @@ package SegundoParcial1A;
 
 public class Cliente {
 	public static void main(String[] args) {
+		
 		GuardarCambio guardarCambio = new GuardarCambio();
 		Cambios cambios = new Cambios();
 		
-		Documento d = new Documento("Version 1", "aaaaaa");
-		
+		Documento d = new Documento("Version 1", "aaaaaa");	
 		guardarCambio.ponerEstado(d);
 		cambios.guardar(guardarCambio.crearEstado());
 		

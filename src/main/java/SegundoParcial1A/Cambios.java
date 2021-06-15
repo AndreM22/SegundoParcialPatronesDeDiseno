@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Cambios {
+	
 	private List<EstadoDocumento> cambiosGuardado = new ArrayList<>();
 	private List<EstadoDocumento> cambiosDeshechos = new ArrayList<>();
 

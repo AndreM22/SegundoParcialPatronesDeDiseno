@@ -1,6 +1,7 @@
 package SegundoParcial2A;
 
 public class Mensaje {
+
 	private boolean paraEstudiantes;
 	private boolean paraDocentes;
 	private boolean paraAdministrativos;

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PaginaFacebook implements IPaginaFacebook {
+	
 	private String nombre;
 	private List<IUsuario> subscriptores = new ArrayList<>();
 

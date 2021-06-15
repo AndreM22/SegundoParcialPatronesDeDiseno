@@ -1,6 +1,7 @@
 package SegundoParcial2A;
 
 public abstract class Persona {
+	
     protected ICanalDeComunicacion canalDeComunicacion;
 
     public Persona(ICanalDeComunicacion canalDeComunicacion){

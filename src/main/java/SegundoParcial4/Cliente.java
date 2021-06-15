@@ -4,7 +4,9 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Cliente {
+	
 	public static void main(String[] args) {
+		
 		BaseDeDatos bd = new BaseDeDatos();
 
 		PorCi porCi = new PorCi();

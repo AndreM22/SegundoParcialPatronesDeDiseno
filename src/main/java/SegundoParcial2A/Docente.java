@@ -1,6 +1,7 @@
 package SegundoParcial2A;
 
 public class Docente extends Persona {
+	
 	private int ci;
 	private String nombre;
 

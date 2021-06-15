@@ -1,6 +1,7 @@
 package SegundoParcial3A;
 
 public class Usuario implements IUsuario{
+	
 	private boolean soloVideos;
 	private String nombre;
 	

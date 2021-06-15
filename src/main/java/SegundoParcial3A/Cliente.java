@@ -3,6 +3,7 @@ package SegundoParcial3A;
 public class Cliente {
 
 	public static void main(String[] args) {
+		
 		PaginaFacebook p = new PaginaFacebook("Loot Box");
 
 		p.subscribirse(new Usuario(true, "Juan"));

@@ -9,11 +9,15 @@ public class PorProfesion implements IOrdenamiento {
 	public void ordenar(List<Usuario> usuarios) {
 		System.out.println("*********************************************************");
 		System.out.println("Ordenando por profesión: ");
+		
 		List<Usuario> ordenadoProfesion = new LinkedList<Usuario>();
+		
 		for (Usuario usuario : ordenadoProfesion) {
 			ordenadoProfesion.add(usuario);
 		}
+		
 		char menor = 'z';
+		
 		while (ordenadoProfesion.size() != usuarios.size()) {
 			menor = 'z';
 			Usuario uMenor = null;

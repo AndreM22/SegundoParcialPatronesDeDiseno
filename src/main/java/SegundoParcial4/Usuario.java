@@ -1,6 +1,7 @@
 package SegundoParcial4;
 
 public class Usuario {
+
 	private int ci;
 	private String nombre;
 	private Fecha fechaNacimiento;

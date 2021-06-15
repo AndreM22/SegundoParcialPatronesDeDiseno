@@ -3,6 +3,7 @@ package SegundoParcial2A;
 public class Cliente {
 
 	public static void main(String[] args) {
+		
 		ChatEducativo chat = new ChatEducativo();
 		
 		Estudiante e1 = new Estudiante("Andre", 1, chat);
