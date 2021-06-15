@@ -26,6 +26,7 @@ public class PaginaFacebook implements IPaginaFacebook {
 		for (IUsuario u : subscriptores) {
 			u.notificacion(nombre + " ha subido un nuevo video ");
 		}
+		System.out.println();
 	}
 
 	@Override
@@ -35,5 +36,6 @@ public class PaginaFacebook implements IPaginaFacebook {
 				u.notificacion(nombre + " notifica: " + notificacion);
 			}
 		}
+		System.out.println();
 	}
 }

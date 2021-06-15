@@ -3,7 +3,7 @@ package SegundoParcial3A;
 public class Cliente {
 
 	public static void main(String[] args) {
-		PaginaFacebook p = new PaginaFacebook("Abra");
+		PaginaFacebook p = new PaginaFacebook("Loot Box");
 
 		p.subscribirse(new Usuario(true, "Juan"));
 		p.subscribirse(new Usuario(false, "Jose"));
@@ -12,8 +12,9 @@ public class Cliente {
 		p.subscribirse(new Usuario(true, "Jimena"));
 
 		p.noitificarVideo();
-		p.noitificar();
-		p.noitificar();
+		p.noitificar("Nueva imagen");
+		p.noitificar("Nueva publicacion");
+		p.noitificar("Nuevo post");
 		p.noitificarVideo();
 	}
 
